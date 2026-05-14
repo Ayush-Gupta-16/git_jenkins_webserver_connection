@@ -1,0 +1,7 @@
+# c.txt
+This is File C.
+Some random thoughts:
+- Music
+- Coffee
+- Space Exploration
+- Keep learning new things.
