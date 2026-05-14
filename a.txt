@@ -1,0 +1,7 @@
+# a.txt
+This is File A.
+Random content:
+- Apple
+- Mountain
+- Blue Sky
+- Coding is fun.
