@@ -1,0 +1,7 @@
+# b.txt
+This is File B.
+Random notes:
+- JavaScript
+- HTML & CSS
+- Random number: 48291
+- Have a great day!
