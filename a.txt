@@ -4,4 +4,4 @@ Random content:
 - Apple
 - Mountain
 - Blue Sky
-- Coding is fun.
+- Coding is fun
