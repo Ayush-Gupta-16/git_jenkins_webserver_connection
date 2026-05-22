@@ -6,4 +6,3 @@ Some random thoughts:
 - Space Exploration
 - Keep learning new things.
 
-THIS FILE IS FOR TESTING THE WEBHOOK
